@@ -13,3 +13,13 @@ if payment > 100:
     prizes = ["Hat", "Hook", "Bucket"]
     prize = random.choice(prizes)
     print("Congratulations! Your prize is:", prize)
+
+
+"""
+OUTPUT:
+
+How many pounds of fish did you catch? 500
+Weight in kilograms: 226.8
+Your payment is: 453.6 dollars
+Congratulations! Your prize is: Hat
+"""
